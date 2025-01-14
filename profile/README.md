@@ -3,10 +3,10 @@
 <div align="center">
 
 [![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
-[![License](https://img.shields.io/github/license/ladunjexa/nextjs14-livedox?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/nextjs14-livedox/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/ladunjexa-pbl/.github?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/nextjs14-livedox/blob/main/LICENSE)
 ![PRs](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=shields)
 
-  <h1 align="center" style="border-bottom: none"><b><a href="https://github.com/ladunjexa>@ladunjexa">@ladunjexa</a>'s PBL Collection</b></h1>
+  <h1 align="center" style="border-bottom: none"><b><a href="https://github.com/ladunjexa">@ladunjexa</a>'s PBL Collection</b></h1>
   
 ## Web Applications
 
