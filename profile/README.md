@@ -32,6 +32,12 @@
 | "Hilink" SPA | Dive into the world of Next.js, Incredible Frontend Hilink website built with Next.js using TypeScript & Tailwind CSS ⛺ | TypeScript, Next.js, Tailwind CSS | [GitHub](https://github.com/ladunjexa-pbl/nextjs13-hilink) |
 | "CarHub" C2C Marketplace MPA | "CarHub" Web - Easily find detailed specifications for any vehicle - a modern Next.js 13 Application using TypeScript 🏎 | TypeScript, Next.js, TailwindCSS | [GitHub](https://github.com/ladunjexa-pbl/nextjs13-carhub) |
 | jQuery SPA Collection | uild 3 Well-designed Websites with HTML, CSS and jQuery | HTML, CSS, jQuery | [GitHub](https://github.com/ladunjexa-pbl/jquery-spa-boilerplates) |
+| "PriceWise" Price Tracker  | Dive into web scraping with a Next.js 13 eCommerce price tracker integrated with cheerio, cron jobs, sending emails, and more | TypeScript, Next.js, TailwindCSS, Cheerio, Node-Mailer | [GitHub](https://github.com/ladunjexa-pbl/nextjs13-pricewise) |
+| Blog | Damazing Responsive Blog Application consisting featured and recent posts, categories, full markdown articles, author information, comments and much more, managed by @hygraph dedicated CMS built with NextJS based on @graphql 📑 | Next.js, GraphQL, Hygraph | [GitHub](https://github.com/ladunjexa-pbl/nextjs13-blog) |
+| "Adexa" eCommerce Dashboard | phenomenal Ecommerce Dashboard App consisting Dashboard, Pages, Apps and Charts - built with React & TailwindCSS using @syncfusion ♾️ | React.js, TailwindCSS, React-Router, Syncfusion | [GitHub](https://github.com/ladunjexa-pbl/nextjs13-blog) |
+| 3D T-Shirt Customization | stunning ThreeJS 3D Product website corporate with the incredible power of artificial intelligence built with React & Three.js and OpenAI. ⚡ | Vite.js, React.js, Three.js, Framer Motion, Open AI | [GitHub](https://github.com/ladunjexa-pbl/reactjs18-3d-shirt) |
+| Prompt AI Assistant | Incredible AI-Prompts Sharing Web Application - modern full-stack Next.js 13 application powered by MongoDB 🤖 | Next.js, TailwindCSS, NextAuth.js, MongoDB (Mongoose) | [GitHub](https://github.com/ladunjexa-pbl/nextjs13-prompt-ai-assistant) |
+| "Yariga" Realestate Management Dashboard | phenomenal Realestate Management Dashboard App consisting Dashboard, Properties, Agents and Profiles - built with React & Material-UI using @refinedev ♾️ | React.js, MUI, Refine, Node.js, Express.js, MongoDB (Mongoose), ApexChart.js | [GitHub](https://github.com/ladunjexa-pbl/mern-yariga-dashboard) |
 
 ## Mobile Applications
 
